@@ -1,28 +1,8 @@
-import shopeefoodvn from "../assets/shopeefoodvn.png";
-import vietnam from "../assets/vietnam.png";
+
 import android from "../assets/vi_badge_web_generic.png";
 import ios from "../assets/vn-badge-ios.png";
 import huawei from "../assets/app-gallery-huawei.png";
 
-import {
-  DropdownMenu,
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuLabel,
-  DropdownMenuSeparator,
-  DropdownMenuTrigger,
-} from "@/components/ui/dropdown-menu";
-import {
-  NavigationMenu,
-  NavigationMenuContent,
-  NavigationMenuIndicator,
-  NavigationMenuItem,
-  NavigationMenuLink,
-  NavigationMenuList,
-  NavigationMenuTrigger,
-  NavigationMenuViewport,
-} from "@/components/ui/navigation-menu";
-import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { useNavigate } from "react-router-dom";
 import Header from "@/components/Header";
