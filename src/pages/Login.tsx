@@ -2,7 +2,6 @@
 import android from "../assets/vi_badge_web_generic.png";
 import ios from "../assets/vn-badge-ios.png";
 import huawei from "../assets/app-gallery-huawei.png";
-
 import { Input } from "@/components/ui/input";
 import { useNavigate } from "react-router-dom";
 import Header from "@/components/Header";
