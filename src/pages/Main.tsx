@@ -7,7 +7,7 @@ import deliverynow from "../assets/bg-deliverynow-dat-mon-truc-tuyen-giao-hang-t
 import { useNavigate } from "react-router-dom";
 
 export default function Main() {
-  const navigate = useNavigate();
+//   const navigate = useNavigate();
   return (
     <div>
       <Header />

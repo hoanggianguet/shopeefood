@@ -8,11 +8,11 @@ import { useNavigate } from "react-router-dom";
 import Header from "@/components/Header";
 
 export default function Login() {
-  const navigate = useNavigate();
-  const handleLogin = () => {
-    console.log("Login button clicked");
-    navigate("/login");
-  };
+  // const navigate = useNavigate();
+  // const handleLogin = () => {
+  //   console.log("Login button clicked");
+  //   navigate("/login");
+  // };
   return (
     <div className="">
       <Header />
